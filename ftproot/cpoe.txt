@@ -1,0 +1,16 @@
+MSH|^~\&|DIET|L|GWINCLOVER|GWINCLOVER|20211119100031||ORM^O01|Q543499685T692074256|T|2.3||||||8859/1
+PID|1|7018580|65010731^^^L^MRN^CD:||LABUTGL^GIRL-B^NSGMOM||20211119095700|F||A|1 TEST DR^^LAWRENCEVILLE^GA^30046^US^HOME^^Gwinnett~LAWRENCEVILLE,GA^^^^^^BIRTH~no@email.com^^^^^^EMAIL||5555555555^PRN||ENG|S||2132300003^^^L^1077||||N||Y|2||N|AM||N
+PV1|1|I|WNI^WICU^U^GMCL^^BED^GWP|NE||||||NSY||||New||||NEL||S|||||||||||||||||||GM||A|||20211119095700
+ORC|NW|5645347339^HNAM_ORDERI|||OR||||20211207124755||||CD:2568875803||20211207124913|||PHONE^Phone with Read Back and Verify
+OBR|1|5645347339^HNAM_ORDERI||NICU Feeding^NICU Feeding||||||||||||||||||20211207124913||Diet|||1^^0^20211207124700^^RT
+OBX|1|IS|TMS Ad Lib Feeding^TMS Ad Lib Feeding||Minimum
+OBX|2|IS|TMS Donor Breast Milk Calories NHG^TMS Donor Breast Milk Calories NHG||20 cal
+OBX|3|ID|TMS Donor Breast Milk NHG^TMS Donor Breast Milk NHG||N
+OBX|4|IS|TMS Formula Type NHG^TMS Formula Type NHG||Similac Pro-Advance
+OBX|5|ID|TMS Colostrum Swabbing NHG^TMS Colostrum Swabbing NHG||N
+OBX|6|IS|TMS Route NHG^TMS Route NHG||PO/NG
+OBX|7|NM|TMS Volume per Feeding (ml)^TMS Volume per Feeding (ml)||37
+OBX|8|ID|TMS Formula NHG^TMS Formula NHG||Y
+OBX|9|ID|TMS Maternal Breast Milk NHG^TMS Maternal Breast Milk NHG||Y
+OBX|10|IS|TMS Frequency of Feeds NHG^TMS Frequency of Feeds NHG||Every 3 hours
+
